@@ -29,11 +29,11 @@ Disallow:/
 User-agent:ClaudeBot
 Disallow:/
 
-Sitemap: https://daddybet.win/sitemap.xml
-Sitemap: https://daddybet.win/images_sitemap.xml
-
 User-agent:Cohere-ai
 Disallow:/
 
 User-agent:meta-externalagent
 Disallow:/
+
+Sitemap: https://betbricks7.win/sitemap.xml
+Sitemap: https://betbricks7.win/images_sitemap.xml
